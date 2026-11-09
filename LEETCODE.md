@@ -18,7 +18,7 @@ Solve these in order within each topic. Tick `[x]` when done.
 - [x] [258. Add Digits](https://leetcode.com/problems/add-digits/) · Easy
 - [x] [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) · Easy
 - [x] [2427. Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) · Easy
-- [ ] [507. Perfect Number](https://leetcode.com/problems/perfect-number/) · Easy
+- [x] [507. Perfect Number](https://leetcode.com/problems/perfect-number/) · Easy
 - [ ] [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) · Medium
 - [ ] [204. Count Primes](https://leetcode.com/problems/count-primes/) · Medium · Stretch
 

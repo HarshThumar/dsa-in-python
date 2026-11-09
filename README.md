@@ -8,7 +8,7 @@ My journey learning **Data Structures & Algorithms in Python**, from the basics 
 
 | Solved | Easy | Medium | Hard |
 |---|---|---|---|
-| **8** | 8 | 0 | 0 |
+| **9** | 9 | 0 | 0 |
 
 The full roadmap (about 200 problems, grouped by topic) is in [LEETCODE.md](LEETCODE.md).
 
@@ -25,6 +25,7 @@ The full roadmap (about 200 problems, grouped by topic) is in [LEETCODE.md](LEET
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | nested loop / digital root | O(log n) | O(1) | [code](dsa/01_math_and_loops/0258_add_digits.py) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | math formula, no loop | O(1) | O(1) | [code](dsa/01_math_and_loops/1523_count_odd_numbers_in_an_interval_range.py) |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | Easy | loop to min(a, b) | O(min(a, b)) | O(1) | [code](dsa/01_math_and_loops/2427_number_of_common_factors.py) |
+| 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | Easy | divisor pairs, loop to √n | O(√n) | O(1) | [code](dsa/01_math_and_loops/0507_perfect_number.py) |
 
 ## Repo layout
 
